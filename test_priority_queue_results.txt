@@ -1,0 +1,5 @@
+Extracted: Task(id=B, priority=2, arrival=None, deadline=None)
+Extracted: Task(id=C, priority=1, arrival=None, deadline=None)
+Is empty? False
+Extracted: Task(id=A, priority=3, arrival=None, deadline=None)
+Is empty? True

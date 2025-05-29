@@ -1,0 +1,17 @@
+[Time 0] Task Arrived: Task(id=T1, priority=3, arrival=0, deadline=10)
+[Time 0] Executing: Task(id=T1, priority=3, arrival=0, deadline=10)
+[Time 1] Task Arrived: Task(id=T2, priority=2, arrival=1, deadline=8)
+[Time 1] Executing: Task(id=T2, priority=2, arrival=1, deadline=8)
+[Time 2] Task Arrived: Task(id=T3, priority=1, arrival=2, deadline=5)
+[Time 2] Executing: Task(id=T3, priority=1, arrival=2, deadline=5)
+[Time 3] Task Arrived: Task(id=T4, priority=5, arrival=3, deadline=12)
+[Time 3] Executing: Task(id=T4, priority=5, arrival=3, deadline=12)
+[Time 4] Task Arrived: Task(id=T5, priority=4, arrival=4, deadline=9)
+[Time 4] Executing: Task(id=T5, priority=4, arrival=4, deadline=9)
+
+Execution order:
+Time 0: Executed Task(id=T1, priority=3, arrival=0, deadline=10)
+Time 1: Executed Task(id=T2, priority=2, arrival=1, deadline=8)
+Time 2: Executed Task(id=T3, priority=1, arrival=2, deadline=5)
+Time 3: Executed Task(id=T4, priority=5, arrival=3, deadline=12)
+Time 4: Executed Task(id=T5, priority=4, arrival=4, deadline=9)
